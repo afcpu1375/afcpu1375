@@ -2,18 +2,7 @@
 
 I am Amirhossein Fazli, Flutter programmer
 
-<!--
-**afcpu1375/afcpu1375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Flutter framework.
-- 🌱 I’m currently learning :)
-- 👯 I love computers and programming...
-- 📫 How to reach me: AmirhosseinFazli100@gmail.com
-- 😄 website:www.afcpu.ir
-
--->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/afcpu1996) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinfazli) 
 
